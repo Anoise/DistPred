@@ -1,4 +1,4 @@
-# Minusformer
+# DistPred
 
 The repo is the official implementation for the paper: DistPred: A Distribution-Free Probabilistic Inference Method for Regression and Forecasting.
 
@@ -55,7 +55,7 @@ The datasets can be obtained from [Google Drive](https://drive.google.com/file/d
 
 ### 2) Clone the code repository
 ```git
-git clone git@github.com:Anoise/Minusformer.git
+git clone git@github.com:Anoise/DistPred.git
 ```
 
 ### 3) Training on Time Series Dataset
@@ -63,9 +63,6 @@ Go to the directory "DistPred-Forecast", we'll find that the bash scripts are al
 
 ```shell
 bash scripts/Electricity/Minusformer-96M.sh
-bash scripts/Traffic/Minusformer-96M.sh
-bash scripts/ETTm2/Minusformer-96M.sh
-...
 ```
 
 Note that:
@@ -85,7 +82,7 @@ The generated samples seamlessly integrate with the authentic test instances, in
 
 
 
-Minusformer achieves the consistent SOTA performance across all datasets and prediction length configurations.
+DistPred achieves the consistent SOTA performance across all datasets and prediction length configurations.
 
 <div align=center><img src="Images/uci_regression.jpg"></div>
 
@@ -106,7 +103,7 @@ As shown in the following figure, with an increase in the number of output sampl
 ## 8. Performace on Time Series Forcasting
 
 
-Minusformer achieves the consistent SOTA performance across all datasets and prediction length configurations.
+DistPred achieves the consistent SOTA performance across all datasets and prediction length configurations.
 
 <div align=center><img src="Images/m_table.jpg"></div>
 
@@ -115,13 +112,13 @@ Minusformer achieves the consistent SOTA performance across all datasets and pre
 ## 8. Citations
 
 <!--
-Daojun Liang, Haixia Zhang, Dongfeng Yuan, Bingzheng Zhang and Minggao Zhang, Minusformer: Improving Time Series Forecasting by Progressively Learning Residuals. arXiv preprint arXiv:2402.02332 (2024).
+Daojun Liang, Haixia Zhang, Dongfeng Yuan, DistPred: A Distribution-Free Probabilistic Inference Method for Regression and Forecasting. arXiv preprint arXiv:2405.xxxx (2024).
 
 ```
-@article{liang2024minusformer,
-  title={Minusformer: Improving Time Series Forecasting by Progressively Learning Residuals},
-  author={Liang, Daojun and Zhang, Haixia and Yuan, Dongfeng and Zhang, Bingzheng and Zhang, Minggao},
-  journal={arXiv preprint arXiv:2402.02332},
+@article{liang2024distpred,
+  title={DistPred: A Distribution-Free Probabilistic Inference Method for Regression and Forecasting},
+  author={Liang, Daojun and Zhang, Haixia and Yuan, Dongfeng},
+  journal={arXiv preprint arXiv:2405.xxxx},
   year={2024}
 }
 ```
