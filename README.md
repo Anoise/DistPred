@@ -1,5 +1,5 @@
-# DistPred
-[DistPred: A Distribution-Free Probabilistic Inference Method for Regression and Forecasting (KDD 2025 Accept!)](https://arxiv.org/abs/2406.11397)
+# DistPred (KDD 2025)
+[DistPred: A Distribution-Free Probabilistic Inference Method for Regression and Forecasting](https://arxiv.org/abs/2406.11397)
 
 The repo is the official implementation for the paper: DistPred: A Distribution-Free Probabilistic Inference Method for Regression and Forecasting.
 
