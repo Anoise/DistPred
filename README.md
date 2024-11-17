@@ -117,7 +117,7 @@ DistPred achieves the consistent SOTA performance across all datasets and predic
 ## 8. Citations
 
 
-Daojun Liang, Haixia Zhang, Dongfeng Yuan, DistPred: A Distribution-Free Probabilistic Inference Method for Regression and Forecasting. arXiv preprint arXiv:2406.11397 (2024).
+Daojun Liang, Haixia Zhang, Dongfeng Yuan, DistPred: A Distribution-Free Probabilistic Inference Method for Regression and Forecasting. ACM SigKDD (2025).
 
 ```
 @article{liang2024distpred,
