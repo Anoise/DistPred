@@ -3,7 +3,7 @@
 
 The repo is the official implementation for the paper: DistPred: A Distribution-Free Probabilistic Inference Method for Regression and Forecasting.
 
-Blog:
+Blogs:
 [Zhiyuan](https://hub.baai.ac.cn/paper/7b3a1cdf-817a-4105-9f44-3a84ac9e0a91), [WeChat](https://mp.weixin.qq.com/s/1AEfRRC0reiWh-y5iBPCug), [Zhihu](https://zhuanlan.zhihu.com/p/704232558), [CSDN](https://blog.csdn.net/liangdaojun/article/details/139796410)
 
 
