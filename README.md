@@ -1,6 +1,11 @@
-# DistPred
+# DistPred (KDD 2025)
+[DistPred: A Distribution-Free Probabilistic Inference Method for Regression and Forecasting](https://arxiv.org/abs/2406.11397)
 
 The repo is the official implementation for the paper: DistPred: A Distribution-Free Probabilistic Inference Method for Regression and Forecasting.
+
+Blogs:
+[Zhiyuan](https://hub.baai.ac.cn/paper/7b3a1cdf-817a-4105-9f44-3a84ac9e0a91), [WeChat](https://mp.weixin.qq.com/s/1AEfRRC0reiWh-y5iBPCug), [Zhihu](https://zhuanlan.zhihu.com/p/704232558), [CSDN](https://blog.csdn.net/liangdaojun/article/details/139796410)
+
 
 ## 1. Introduction
 
@@ -111,16 +116,16 @@ DistPred achieves the consistent SOTA performance across all datasets and predic
 
 ## 8. Citations
 
-<!--
-Daojun Liang, Haixia Zhang, Dongfeng Yuan, DistPred: A Distribution-Free Probabilistic Inference Method for Regression and Forecasting. arXiv preprint arXiv:2405.xxxx (2024).
+
+Daojun Liang, Haixia Zhang, Dongfeng Yuan, DistPred: A Distribution-Free Probabilistic Inference Method for Regression and Forecasting. ACM SigKDD (2025).
 
 ```
 @article{liang2024distpred,
   title={DistPred: A Distribution-Free Probabilistic Inference Method for Regression and Forecasting},
   author={Liang, Daojun and Zhang, Haixia and Yuan, Dongfeng},
-  journal={arXiv preprint arXiv:2405.xxxx},
-  year={2024}
+  journal={ACM SigKDD 2025},
+  year={2025}
 }
 ```
--->
+
 
