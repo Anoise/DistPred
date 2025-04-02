@@ -123,7 +123,7 @@ Daojun Liang, Haixia Zhang, Dongfeng Yuan, DistPred: A Distribution-Free Probabi
 @article{liang2024distpred,
   title={DistPred: A Distribution-Free Probabilistic Inference Method for Regression and Forecasting},
   author={Liang, Daojun and Zhang, Haixia and Yuan, Dongfeng},
-  journal={ACM SigKDD 2025},
+  journal={the 31st ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD)},
   year={2025}
 }
 ```
